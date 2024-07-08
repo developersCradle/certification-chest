@@ -6,6 +6,9 @@
 
 <details open="true">
   <summary >Certifications</summary>
+    	<p><b>Reference report, Avila,</b> Reference report, 2024</p>
+		<img id="avila?trk=public_profile_see-credential" src="avila.PNG" alt="" width="500"/>
+			<li><a href="https://github.com/developersCradle/certification-chest/blob/main/Hakijaa%20Heikki%20Siikavirta%20koskeva%20referenssiraportti.pdf">Link to file</a></li>
   	<p><b>Web Developer Academy, Saranen Consulting,</b> Certificate, 2018</p>
 		<img id="saranenCertWebDeveloperAcademyCert?trk=public_profile_see-credential" src="saranenCertWebDeveloperAcademyCert.JPG" alt="" width="500"/>
 			<li><a href="https://paper.dropbox.com/doc/Web-Developer-Academy-ASsj9Jrf3jgR469SAjJMb">Course content</a></li>
@@ -15,7 +18,7 @@
 		<img id="wadoRyuCertificate" src="wado ruy yellow belt certificate.jpg" alt="wado ruy cert" width="500"/>
 	<p><b>Military sport,</b> Certificate, 2011</p>
 		<img id="sportCert" src="sportCert.JPG" alt="sport cert" width="500"/>
-	<p><b>Helsingin Energia, Tunnel Course,</b> Certificate, 2012</p>
+	<p><b>Helsingin Energia, Tunnel Course,</b> Certificate, 2011</p>
 		<img id="tunnelCourseCert?trk=public_profile_see-credential" src="tunnelCourse.JPG" alt="tunnel cert" width="500"/>
 	<p><b>Type Master,</b> Certificate, when was in High School, 2004<p>
 		<img id="typeMasterCourseCertificate" src="type master certificate.jpg" alt="type master cert" width="500"/>
