@@ -4,6 +4,7 @@
 </p>
 <hr>
 
+
 <details open="true">
   <summary >Certifications</summary>
     	<p><b>Reference report, Avila,</b> Reference report, 2024</p>
@@ -14,6 +15,8 @@
 			<li><a href="https://paper.dropbox.com/doc/Web-Developer-Academy-ASsj9Jrf3jgR469SAjJMb">Course content</a></li>
   	<p><b>CCNA Routing and Switching: Introduction to Networks,</b> Certificate, 2016</p>
 		<img id="ccnaCourse1Certificate?trk=public_profile_see-credential" src="ccnaCourse1certificate.JPG" alt="ccnaCourse1certificate" width="500"/>
+	<p><b>Cisco Networking Academy® Introduction to Cybersecurity course,</b> Certificate, 2016</p>
+		<img id="ciscoSecurityCertificate?trk=public_profile_see-credential" src="ciscoSecurityCertificate.PNG" alt="ciscoSecurityCertificate" width="500"/>
 	<p><b>Wado-ryu,</b> Certificate, 2012</p>
 		<img id="wadoRyuCertificate" src="wado ruy yellow belt certificate.jpg" alt="wado ruy cert" width="500"/>
 	<p><b>Military sport,</b> Certificate, 2011</p>
