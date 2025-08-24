@@ -1,8 +1,13 @@
-<hr>
+<p align="center">
+    <img id="studying" src="certificaiton chest caption.png" style="height: 150px; width: 900px;">
+ 	<text>Contains all the rest/off topic certifcations. <br> Makes CV/Portfolios dynamic and small.
+</p>
+
 <p align="center">
    <img src="chest.gif" alt="Chest of things" width="400"/>
 </p>
-<hr>
+
+
 
 
 <details open="true">
@@ -24,9 +29,7 @@
 	<p><b>Helsingin Energia, Tunnel Course,</b> Certificate, 2011</p>
 		<img id="tunnelCourseCert?trk=public_profile_see-credential" src="tunnelCourse.JPG" alt="tunnel cert" width="500"/>
 	<p><b>Homepage,</b> Certificate unofficial, when was in High School, 2006<p>
-		<img id="JuvanUrheilijatKotisivuVuosikertomus" src="määäSuperKoodariKOTISUVUT.png" alt="type master cert" width="500"/>
-	<p><b>Type Master,</b> Certificate, when was in High School, 2004<p>
-		<img id="typeMasterCourseCertificate" src="type master certificate.jpg" alt="type master cert" width="500"/>
+		<img id="JuvanUrheilijatKotisivuVuosikertomus" src="määäSuperKoodariKOTISUVUT.png" alt="juvan urheilijat cert" width="500"/>
 	<p><b>Spring House for effective job seeking,</b> Certificate, when was at mercy of MOL, 2012<p>
 		<img id="sprinthouseMOLsuperKurssiCert" src="sprinthouseMOLsuperKurssi.jpg" alt="sprinthouseMOLsuperKurssi cert" width="500"/>
 	<p><b>Mensa IQ test official,</b> Certificate, when was freaking tired. If one sees these meaningful and or speeds up recruitment process, 2020<p>
