@@ -8,10 +8,10 @@
 </p>
 
 
-<p align="center">
 
 <details open="true">
   <summary >Certifications</summary>
+<p align="center">
     	<p><b>Reference report, Avila,</b> Reference report, 2024</p>
 		<img id="avila?trk=public_profile_see-credential" src="avila.PNG" alt="" width="500"/>
 			<li><a href="https://github.com/developersCradle/certification-chest/blob/main/Hakijaa%20hs%20koskeva%20referenssiraportti.pdf">Link to file</a></li>
@@ -36,5 +36,5 @@
 		<img id="mensaOfficialWhenFreakingTiredZZZZZ?trk=public_profile_see-credential" src="mensaOfficialWhenFreakingTiredZZZZZ.JPG" alt="mensaOfficialWhenFreakingTiredZZZZZ cert" width="500"/>
 	<p><b>My first block test from company, Kide systems.</b> Certificate, unofficial when got first IT job, 2018<p>
 		<img id="mensaUnofficialWhenWasInKide" src="mensaUnofficialWhenWasInKide.JPG" alt="mensaUnofficialWhenWasInKide cert" width="500"/>
-</details>
 </p>
+</details>
