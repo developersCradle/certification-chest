@@ -8,7 +8,9 @@
 </p>
 
 
-<details align="center" open="true">
+<p align="center">
+
+<details open="true">
   <summary >Certifications</summary>
     	<p><b>Reference report, Avila,</b> Reference report, 2024</p>
 		<img id="avila?trk=public_profile_see-credential" src="avila.PNG" alt="" width="500"/>
@@ -35,3 +37,4 @@
 	<p><b>My first block test from company, Kide systems.</b> Certificate, unofficial when got first IT job, 2018<p>
 		<img id="mensaUnofficialWhenWasInKide" src="mensaUnofficialWhenWasInKide.JPG" alt="mensaUnofficialWhenWasInKide cert" width="500"/>
 </details>
+</p>
