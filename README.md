@@ -14,7 +14,7 @@
   <summary >Certifications</summary>
     	<p><b>Reference report, Avila,</b> Reference report, 2024</p>
 		<img id="avila?trk=public_profile_see-credential" src="avila.PNG" alt="" width="500"/>
-			<li><a href="https://github.com/developersCradle/certification-chest/blob/main/Hakijaa%20hs%20koskeva%20referenssiraportti.pdf">Link to file</a></li>
+			<a href="https://github.com/developersCradle/certification-chest/blob/main/Hakijaa%20hs%20koskeva%20referenssiraportti.pdf">Link to file</a>
   	<p><b>Web Developer Academy, Saranen Consulting,</b> Certificate, 2018</p>
 		<img id="saranenCertWebDeveloperAcademyCert?trk=public_profile_see-credential" src="saranenCertWebDeveloperAcademyCert.JPG" alt="" width="500"/>
 			<li><a href="https://paper.dropbox.com/doc/Web-Developer-Academy-ASsj9Jrf3jgR469SAjJMb">Course content</a></li>
