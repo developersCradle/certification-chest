@@ -4,13 +4,11 @@
 </p>
 
 <p align="center">
-   <img src="chest.gif" alt="Chest of things" width="400"/>
+   <img src="chest.gif" alt="Chest of things" width="500"/>
 </p>
 
 
-
-
-<details open="true">
+<details align="center" open="true">
   <summary >Certifications</summary>
     	<p><b>Reference report, Avila,</b> Reference report, 2024</p>
 		<img id="avila?trk=public_profile_see-credential" src="avila.PNG" alt="" width="500"/>
