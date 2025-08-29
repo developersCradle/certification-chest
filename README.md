@@ -16,10 +16,14 @@
 			<a href="https://github.com/developersCradle/certification-chest/blob/main/Hakijaa%20hs%20koskeva%20referenssiraportti.pdf">
 				<img id="link to the file" src="linkToTheFile.png" alt="" width="300"/>
 			</a>
-		<div>
+		</div>
   	<p><b>Web Developer Academy, Saranen Consulting,</b> Certificate, 2018</p>
 		<img id="saranenCertWebDeveloperAcademyCert?trk=public_profile_see-credential" src="saranenCertWebDeveloperAcademyCert.JPG" alt="" width="500"/>
-			<li><a href="https://paper.dropbox.com/doc/Web-Developer-Academy-ASsj9Jrf3jgR469SAjJMb">Course content</a></li>
+		<div align="center">
+			<a href="https://paper.dropbox.com/doc/Web-Developer-Academy-ASsj9Jrf3jgR469SAjJMb">
+			<img id="link to the file" src="linkToTheFileSecond.png" alt="" width="300"/>
+			</a>
+		</div>
   	<p><b>CCNA Routing and Switching: Introduction to Networks,</b> Certificate, 2016</p>
 		<img id="ccnaCourse1Certificate?trk=public_profile_see-credential" src="ccnaCourse1certificate.JPG" alt="ccnaCourse1certificate" width="500"/>
 	<p><b>Cisco Networking Academy® Introduction to Cybersecurity course,</b> Certificate, 2016</p>
