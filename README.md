@@ -21,7 +21,7 @@
 		<img id="saranenCertWebDeveloperAcademyCert?trk=public_profile_see-credential" src="saranenCertWebDeveloperAcademyCert.JPG" alt="" width="500"/>
 		<div align="center">
 			<a href="https://paper.dropbox.com/doc/Web-Developer-Academy-ASsj9Jrf3jgR469SAjJMb">
-			<img id="link to the file" src="linkToTheFileSecond.png" alt="" width="300"/>
+			<img id="link to the file" src="linkToTheFile.png" alt="" width="300"/>
 			</a>
 		</div>
   	<p><b>CCNA Routing and Switching: Introduction to Networks,</b> Certificate, 2016</p>
