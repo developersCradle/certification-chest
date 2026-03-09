@@ -1,67 +1,301 @@
-<!-- The structure is following, where the text is below the image! Example
-below:
+<!--
+    CERTIFICATION CHEST
 
-			<img id="pranic_healing_basic_course_certificate?trk=public_profile_see-credential" src="Pranic_Healing_Basic_Course_Certificate.jpeg" alt="tunnel cert" width="500"/>
-  <p><b>Pranic Healing Basic Course,</b> Certificate, 2026.<p>
+    Structure:
+	
+	<p>
+		<b>Pranic Healing Center</b>,
+		Pranic Healing Basic Course,
+		Official Certificate, 2026.
+	</p>
+	
+	<a href="#">
+        <img
+            src="Pranic_Healing.gif"
+            alt="Pranic healing!"
+            width="75"
+            height="100"
+        />
+    </a>
 
-  todo frames.jpg is for, if one wants to add frames to cert! -->
+    todo frames.jpg:
+    Used when adding decorative frames to certificates.
+-->
 
 <p align="center">
-    <img id="studying" src="certificaiton chest caption.png" style="height: 150px; width: 900px;">
-  <text>Contains all the rest/off topic certifcations. <br> Makes CV/Portfolios
-  dynamic and small.
+    <img
+        id="Certification_Chest_Caption?trk=public_profile_see-credential"
+        src="Certificate_Chest_Caption.png"
+        alt="Pranic_Healing basic course certificate!"
+        style="height: 150px; width: 900px;"
+    />
+    <br>
+    Contains all the remaining and off-topic certifications.
+    <br>
+    Makes CVs and portfolios <b>dynamic</b> and <b>compact!</b>
 </p>
 
 <p align="center">
-   <img src="chest.gif" alt="Chest of things" width="500"/>
+    <img
+        id="Chest_Of_My_Certificates?trk=public_profile_see-credential"
+        src="Chest_Of_My_Certificates.gif"
+        alt="Chest of my certificates!"
+        width="500"
+    />
 </p>
-
-
 
 <div align="center">
-	<details open="true">
-	<summary >Certifications!</summary>
-			<img id="avila?trk=public_profile_see-credential" src="avila.PNG" alt="Avila reference report!" width="500"/>
-			<div align="center">
-				<a href="https://github.com/developersCradle/certification-chest/blob/main/Hakijaa%20hs%20koskeva%20referenssiraportti.pdf">
-					<img id="link to the file" src="Link_To_The_Report.png" alt="link to the report" width="500"/>
-				</a>
-			</div>
-		<p><b>Reference report, Avila,</b> Reference report, 2024.</p>
-			<img id="saranenCertWebDeveloperAcademyCert?trk=public_profile_see-credential" src="saranenCertWebDeveloperAcademyCert.JPG" alt="" width="500"/>
-			<div align="center">
-				<a href="https://paper.dropbox.com/doc/Web-Developer-Academy-ASsj9Jrf3jgR469SAjJMb">
-				<img id="link to the file" src="Link_To_The_Course.png" alt="Link to the course content," width="500"/>
-				</a>
-			</div>
-	<p><b>Web Developer Academy, Saranen Consulting,</b> Certificate, 2018.</p>
-			<img id="ccnaCourse1Certificate?trk=public_profile_see-credential" src="ccnaCourse1certificate.JPG" alt="ccnaCourse1certificate" width="500"/>
-		<p><b>CCNA Routing and Switching: Introduction to Networks,</b> Certificate, 2016.</p>
-			<img id="ciscoSecurityCertificate?trk=public_profile_see-credential" src="ciscoSecurityCertificate.PNG" alt="ciscoSecurityCertificate" width="500"/>
-		<p><b>Cisco Networking Academy® Introduction to Cybersecurity course,</b> Certificate, 2016.</p>
-			<img id="wadoRyuCertificate" src="wado ruy yellow belt certificate.jpg" alt="wado ruy cert" width="500"/>
-		<p><b>Wado-ryu,</b> Certificate, 2012.</p>
-			<img id="sportCert" src="sportCert.JPG" alt="sport cert" width="500"/>
-		<p><b>Military sport,</b> Certificate, 2011.</p>
-			<img id="JuvanUrheilijatKotisivuVuosikertomus" src="määäSuperKoodariKOTISUVUT.png" alt="juvan urheilijat cert" width="500"/>
-		<p><b>Homepage,</b> Certificate unofficial, when was in High School, 2006.<p>
-			<img id="mensaOfficialWhenFreakingTiredZZZZZ?trk=public_profile_see-credential" src="mensaOfficialWhenFreakingTiredZZZZZ.JPG" alt="mensaOfficialWhenFreakingTiredZZZZZ cert" width="500"/>
-		<p><b>Mensa IQ test official,</b> Certificate, when was freaking tired. If one sees these meaningful and or speeds up recruitment process, 2020.<p>
-			<img id="mensaUnofficialWhenWasInKide" src="mensaUnofficialWhenWasInKide.JPG" alt="mensaUnofficialWhenWasInKide cert" width="500"/>
-		<p><b>My first block test from company, Kide systems.</b> Certificate,
-		unofficial when got first IT job, 2018.<p>
-			<!-- FROM HERE TO BELOW IS SPORT AND NON-TECH RELATED -->
-			<img id="tunnelCourseCert?trk=public_profile_see-credential" src="tunnelCourse.JPG" alt="tunnel cert" width="500"/>
-		<p><b>Helsingin Energia, Tunnel Course,</b> Certificate, 2011.</p>
-			<img id="sprinthouseMOLsuperKurssiCert" src="Spring_House_Effective_Job_Seeking_MOL_Course.jpg" alt="Spring House Effective Job Seeking MOL Course Certificate!" width="500"/>
-		<p><b>Spring House for effective job seeking,</b> Certificate, when was at mercy of MOL, 2012.<p>
-			<img id="pranic_healing_basic_course_certificate=public_profile_see-credential"
-			src="Pranic_Healing_Basic_Course_Certificate.jpeg" alt="Pranic Healing Basic Course Certificate!"
-			width="500"/>
-		<p><b>Pranic Healing Basic Course,</b> Certificate, 2026.<p>
-	</details>
+
+<details open>
+
+<summary><b>Certifications!</b></summary>
+
+<br>
+
+<img
+    id="Avila_Banner?trk=public_profile_see-credential"
+    src="Avila_Banner.PNG"
+    alt="Avila Banner!"
+    width="500"
+/>
+
+<div align="center">
+    <a href="https://github.com/developersCradle/certification-chest/blob/main/Hakijaa_hs_koskeva_referenssiraportti.pdf">
+        <img
+            id="Link_To_The_Report?trk=public_profile_see-credential"
+            src="Link_To_The_Report_Caption.png"
+            alt="Link to the report caption!"
+            width="500"
+        />
+    </a>
 </div>
 
-#### Additional stuff.
+<p>
+    <b>Avila</b>, Reference Report, 2024.
+</p>
 
-- [ ] Make naming coherent as possible! for all tags!
+<img
+    id="Saranen_Web_Developer_Academy_Certificate_official?trk=public_profile_see-credential"
+    src="Saranen_Web_Developer_Academy_Certificate_Official.JPG"
+    alt="Saranen Web Developer Academy Certificate Official!"
+    width="500"
+/>
+
+<div align="center">
+    <a href="https://paper.dropbox.com/doc/Web-Developer-Academy-ASsj9Jrf3jgR469SAjJMb">
+        <img
+            id="Link_To_The_Course_Caption?trk=public_profile_see-credential"
+            src="Link_To_The_Course_Caption.png"
+            alt="Link to the course caption!"
+            width="500"
+        />
+    </a>
+</div>
+
+<p>
+    <b>Saranen Consulting</b>, Web Developer Academy,
+    Official Certificate, 2018.
+</p>
+
+<img
+    id="Ccna_Course_One_Certificate_Official?trk=public_profile_see-credential"
+    src="CCNA_Course_One_Certificate_Official.JPG"
+    alt="CCNA Course One Certificate Official!"
+    width="500"
+/>
+
+<p>
+    <b>Cisco Networking Academy</b>,
+    CCNA Routing and Switching: Introduction to Networks,
+    Official Certificate, 2016.
+</p>
+
+<img
+    id="Cisco_Security_Certificate_Official?trk=public_profile_see-credential"
+    src="Cisco_Security_Certificate_Official.PNG"
+    alt="Cisco Security Certificate Official!"
+    width="500"
+/>
+
+<p>
+    <b>Cisco Networking Academy</b>,
+    Introduction to Cybersecurity,
+    Official Certificate, 2016.
+</p>
+
+<img
+    id="Wado_Ruy_Yellow_Belt_Certificate_Official_Certificate_Official?trk=public_profile_see-credential"
+    src="Wado_Ruy_Yellow_Belt_Certificate_Official.jpg"
+    alt="Wado-ryu Yellow Belt Certificate!"
+    width="500"
+/>
+
+<p>
+    <b>Wado-ryu</b>, Sport Certificate, 2012.
+	<a href="#">
+			<img
+				src="Karate_Kid.gif"
+				alt="Busy Bee!"
+				width="40"
+				height=30"
+			/>
+	</a>
+</p>
+
+
+
+<img
+    id="Military_Sport_Basic_Certificate_Official?trk=public_profile_see-credential"
+    src="Military_Sport_Basic_Certificate_Official.JPG"
+    alt="Military Sport Basic Certificate Official!"
+    width="500"
+/>
+
+<p>
+    <b>Finnish Army</b>, Military Sport Certificate, 2011.
+</p>
+
+<img
+    id="High_School_Stipend_Yearly_Report_Certificate_Unofficial?trk=public_profile_see-credential"
+    src="High_School_Stipend_Yearly_Report_Certificate_Unofficial.png"
+    alt="High School Stipend Yearly Report Certificate Unofficial!"
+    width="500"
+/>
+
+<p>
+    <b>Juva's High School</b>,
+    Homepage Upkeep and Creation Certificate, 2006.
+</p>
+
+<img
+    id="Mensa_Test_Certificate_Official?trk=public_profile_see-credential"
+    src="Mensa_Test_Certificate_Official.JPG"
+    alt="Mensa Test Official Certificate!"
+    width="500"
+/>
+
+<p>
+    <b>Finnish Mensa ry</b>, IQ Test Official Certificate, 2020.
+    <br>
+    When I was a tired, busy bee!
+    <a href="#">
+        <img
+            src="Busy_Bee.gif"
+            alt="Busy Bee!"
+            width="45"
+            height="30"
+        />
+    </a>
+</p>
+
+<img
+    id="Alva_Labs_Logic_Test_Report_Official?trk=public_profile_see-credential"
+    src="Alva_Labs_Logic_Test_Report_Official.JPG"
+    alt="Alva Labs Logic Test Report Official!"
+    width="500"
+/>
+
+<div align="center">
+    <a href="https://github.com/developersCradle/certification-chest/blob/main/Alva%20Labs%20Logic%20Test%20Report%20-%20H.S.pdf">
+        <img
+            id="Link_To_The_Report_Alva?trk=public_profile_see-credential"
+            src="Link_To_The_Report_Caption.png"
+            alt="Link to the report caption!"
+            width="500"
+        />
+    </a>
+</div>
+
+<p>
+    <b>Alva Labs</b>, Logic Test Official Certificate, 2026.
+    <br>
+    That day I was pulling an all-nighter!
+    <a href="#">
+        <img
+            src="Scribing_Text.gif"
+            alt="Scribing text!"
+            width="45"
+            height="30"
+        />
+    </a>
+</p>
+
+<img
+    id="Mensa_Test_From_KIDE_Test_Result_Unofficial?trk=public_profile_see-credential"
+    src="Mensa_Test_From_KIDE_Results_Certificate_Unofficial.JPG"
+    alt="Mensa Test from Kide Results Unofficial!"
+    width="500"
+/>
+
+<p>
+    <b>Kide Systems</b>, First Block Test,
+    Unofficial Certificate, 2018.
+    <br>
+    This was when I got my first IT job!
+</p>
+
+<!--
+    FROM HERE DOWN:
+    SPORTS AND NON-TECHNICAL CERTIFICATIONS
+-->
+
+<img
+    id="Helsingin_Energia_Underground_Tunnel_Course_Certificate_Official?trk=public_profile_see-credential"
+    src="Helsingin_Energia_Underground_Tunnel_Course_Certificate_Official.JPG"
+    alt="Helsingin Energia Underground Tunnel Course Certificate Official!"
+    width="500"
+/>
+
+<p>
+    <b>Helsingin Energia</b>, Tunnel Course,
+    Official Certificate, 2011.
+	<a href="#">
+		<img
+			src="Army_Guy.gif"
+			alt="Army Guy!"
+			width="50"
+			height="30"
+		/>
+	</a>
+</p>
+
+<img
+    id="Spring_House_Effective_Job_Seeking_MOL_Course_Certificate_Official?trk=public_profile_see-credential"
+    src="Spring_House_Effective_Job_Seeking_MOL_Course_Certificate_Official.jpg"
+    alt="Spring House Effective Job Seeking MOL Course Certificate Official!"
+    width="500"
+/>
+
+<p>
+    <b>Spring House</b>, Effective Job Seeking,
+    Official Certificate, 2012.
+    <br>
+    When I was at the mercy of MOL!
+</p>
+
+<img
+    id="Pranic_Healing_Basic_Course_Certificate_Official?trk=public_profile_see-credential"
+    src="Pranic_Healing_Basic_Course_Certificate_Official.jpeg"
+    alt="Pranic Healing Basic Course Certificate!"
+    width="500"
+/>
+
+<p>
+    <b>Pranic Healing Center</b>,
+    Pranic Healing Basic Course,
+    Official Certificate, 2026.
+</p>
+	<a href="#">
+        <img
+            src="Pranic_Healing.gif"
+            alt="Pranic healing!"
+            width="75"
+            height="100"
+        />
+    </a>
+
+<hr>
+
+</details>
+
+</div>
