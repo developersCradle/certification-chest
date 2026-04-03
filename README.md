@@ -22,7 +22,7 @@ Place where got it from, The name of the course!
 			<img id="avila_banner?trk=public_profile_see-credential" src="Avila_Banner.PNG" alt="Avila Banner!" width="500"/>
 			<div align="center">
 			<!-- todo updage here -->
-				<a href="#"> 
+				<a href="https://github.com/developersCradle/certification-chest/blob/main/Hakijaa_hs_koskeva_referenssiraportti.pdf">
 					<img id="link_to_the_report?trk=public_profile_see-credential" src="Link_To_The_Report.png" alt="link to the report" width="500"/>
 				</a>
 			</div>
