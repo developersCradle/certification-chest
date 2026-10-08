@@ -52,14 +52,25 @@ alt="Avila Banner!" width="500" />
   <p><b>Juva's High School</b>, Homepage Upkeep And Creation Certificate
   Unofficial, 2006.<p>
 			<img id="Mensa_Test_Certificate_Official?trk=public_profile_see-credential" src="Mensa_Test_Certificate_Official.JPG" alt="Mensa test certificate official, when was very tired!" width="500"/>
-  <p><b>Finnish Mensa ry</b>, IQ Test Official Certificate, 2020.
-  <br>When i was tired busy bee! <img
+  <p><b>Finnish Mensa ry</b>, IQ Test Official Certificate, 2020. <br>When i was
+  tired busy bee! <img
   src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bd700b16-96b8-4b4a-b7fa-7c8b0a617b00/daac02g-b386a421-f8c6-4afc-b177-7e28db139784.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9iZDcwMGIxNi05NmI4LTRiNGEtYjdmYS03YzhiMGE2MTdiMDAvZGFhYzAyZy1iMzg2YTQyMS1mOGM2LTRhZmMtYjE3Ny03ZTI4ZGIxMzk3ODQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pObyLlD3KhLDrtBFWvlIeDSpcceshSiTWMaEI4JzRrI"
   width ="45" height="30" /><p> <img
   id="Alva_Labs_Logic_Test_Report_Official?trk=public_profile_see-credential"
   src="Alva_Labs_Logic_Test_Report_Official.JPG" alt="Alva Labs Logic Test
-  Report Official!" width="500" /> <p><b>Alva Labs</b>, Logic Test
-  Official Certificate, 2026. <br>That day i was doing all nighter! <img
+  Report Official!" width="500" />
+  			<div align="center">
+				<a 
+				href="https://github.com/developersCradle/certification-chest/blob/main/Alva%20Labs%20Logic%20Test%20Report%20-%20H.S.pdf">
+					<img 
+					id="Link_To_The_Report_Alva?trk=public_profile_see-credential" src="Link_To_The_Report_Caption.png" 
+					alt="Link to the report caption!"
+					width="500"
+					/>
+				</a>
+			</div>
+  <p><b>Alva Labs</b>, Logic Test Official Certificate, 2026. <br>That day i was doing all nighter! 
+  <img
   src="https://cdn.pixabay.com/animation/2024/04/14/00/13/00-13-50-483_256.gif"
   width ="45" height="30" /><p>
 			<img id="Mensa_Test_From_KIDE_Test_Result_Unofficial?trk=public_profile_see-credential" src="Mensa_Test_From_KIDE_Results_Certificate_Unofficial.JPG" alt="Mensa test from kide results unofficial!" width="500"/>
